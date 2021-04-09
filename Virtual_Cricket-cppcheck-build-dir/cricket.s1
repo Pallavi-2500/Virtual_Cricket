@@ -1,0 +1,7 @@
+main call:[menu]
+menu call:[exit,fflush,printf,scanf,system,virtualcricket,while] noreturn:[exit,system,virtualcricket,while]
+virtualcricket global:[over] call:[Sleep,fflush,getch,gets,menu,printf,scanf,srand,system,time,toss] noreturn:[menu,printf]
+toss global:[over] call:[batting,fflush,getch,printf,rand,result,scanf,system,while] noreturn:[printf,result]
+batting global:[count,temp] call:[fflush,printf,rand,scanf,strcmp,strcpy] noreturn:[printf,strcpy]
+result call:[Sleep,getch,printf,system] noreturn:[printf]
+gotoxy call:[GetStdHandle,SetConsoleCursorPosition] noreturn:[SetConsoleCursorPosition]
