@@ -1,2 +1,0 @@
-cricket.a1::cricket.c
-unity.a1::E:/LTTS code/vsc/LTTS_MiniProject/Unity/unity.c
