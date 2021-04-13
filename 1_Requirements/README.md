@@ -48,4 +48,14 @@ Anyone can play this game using Personal computer, smartphone or laptop.
 
 ## High level requirements
 
+| ID | Description | Category | Status |
+|:--|:----------------------------------|:-----------------|:-------------------|
+| HR01 | User shall be able to able to access the main menu| Technical | TBD-S1 |
+
 ## Low level requirements
+
+| ID | Description | HRID | Status |
+|:--|:----------------------------------|:------|:-------------------|
+| LR01 | User shall be able to choose between playing and quitting the game at the main menu| HR01 | TBD-S1 |
+
+
