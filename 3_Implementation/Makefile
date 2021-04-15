@@ -62,7 +62,7 @@ run:$(PROJECT_NAME)
 doc:
 	make -C ./documentation
 
-Cppcheck: $(SRC)
+cppcheck: $(SRC)
 	cppcheck --enable=all $(SRC)
 
 # Build and run the unit tests
