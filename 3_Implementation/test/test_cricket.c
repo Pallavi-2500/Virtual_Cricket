@@ -34,3 +34,9 @@
       /* Close the Unity Test Framework */
       return UNITY_END();
     }
+
+    //Test case functions
+    void test_menu(void){
+        int choice=2;
+        TEST_ASSERT_EQUAL (exit(0),menu());
+    }
