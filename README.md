@@ -7,7 +7,7 @@ The game of virtual cricket is a simple game of chance and is played by two play
 | Name | Badge |
 |:-------------------|:--------------------------------------|
 | Build |  [![C/C++ CI](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/c-build.yml/badge.svg)](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/c-build.yml) |
-| Code quality | [![cppcheck-action](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ea1902e5e11494b8c156a2b2f923d36)](https://www.codacy.com/gh/Pallavi-2500/Virtual_Cricket/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pallavi-2500/Virtual_Cricket&amp;utm_campaign=Badge_Grade) |
+| Code quality | [![cppcheck-action](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ea1902e5e11494b8c156a2b2f923d36)](https://www.codacy.com/gh/Pallavi-2500/Virtual_Cricket/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pallavi-2500/Virtual_Cricket&amp;utm_campaign=Badge_Grade) [![Valgrind](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/Valgrind.yml) |
 | Unity | [![Unit testing](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Pallavi-2500/Virtual_Cricket/actions/workflows/unit-test.yml)  |
 | Git Inspector |  |
 
