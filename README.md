@@ -15,9 +15,9 @@ The game of virtual cricket is a simple game of chance and is played by two play
 
 | S.no. | Folder | Description |
 | :---: | :---------------- | :----------------------------------------- |
-| 1. | Requirements| Documents detailing requirements and research |
-| 2. | Design| Documents specifying design details |
-| 3. | Implementation| All code and documentation |
-| 4. | Test plan| Documents with test plans and procedures |
+| 1. | `Requirements`| Documents detailing requirements and research |
+| 2. | `Design`| Documents specifying design details |
+| 3. | `Implementation`| All code and documentation |
+| 4. | `Test plan`| Documents with test plans and procedures |
 
 
