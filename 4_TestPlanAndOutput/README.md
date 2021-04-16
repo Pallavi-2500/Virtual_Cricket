@@ -11,7 +11,7 @@
 ## Low level Test Plan
 | Test ID | Description | Exp o/p | Exp i/p | Actual o/p | Type of test |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| LR.01 | Check if user shall is able to access the main menu from where they can go ahead with the game or exit. | User is able to access | - | - | technical |
+| LR.01 | Check if user shall is able to access the main menu from where they can go ahead with the game or exit. | Game starts, menu 2 opens | User enters 1 | - | technical |
 | LR.02.1 | Check if user is able to choose and fix the number of overs according to their convinience | Game with unlimited overs begins | user enters 1 | - |technical |
 | LR.02.2 | Check if user is able to choose and fix the number of overs according to their convinience | Game with limited overs is selcted | user enters 2 | - |technical |
 | LR.03 | Check if system is able to add all the scores on each ball and compare user's and system scores in the end and display the results. | Results show match draw | Match draw | - | Scenario based |
