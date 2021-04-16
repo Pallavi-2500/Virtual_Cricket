@@ -18,6 +18,12 @@ The game consists of multiple functions required at each stage of the game. The 
 * The results are displayed and the useer is asked whether they would like to play again.
 * The user either chooses to Pla again or Quit. In case, the user chooses to play again, a fresh game begins.
 
+## Cost and Features
+
+* The game application allows user to enter their details. 
+* Allows single player mode. 
+* Provides play again feature and avoids relaunching of game in case the user wants to play again.
+
 ## SWOT Analysis
 
 ![SWOT](https://user-images.githubusercontent.com/81741838/114584532-68177400-9ca0-11eb-95fc-171f8ec4230f.PNG)
