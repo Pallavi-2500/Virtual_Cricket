@@ -28,18 +28,21 @@ The game of virtual cricket is a simple game of chance and is played by two play
 | SF Id. |  Name |  Features |  Issues raised | Issues resolved  | No. of Test Cases  | Test case passed |
 | :----: |  :------: |  :--------: |   :--------:  | :--------:  | :--------:  | :--------: |
 | `257471` |  Pallavi Sharma |  F.Id.1, F.Id.2,F.Id.3 , F.Id.4 |  - | - | -  | - |
-
+  
+  
 |  Feature Id. | Feature |
-|  :----: |  :----------------: |
+|  :----: |  :---------------- |
 | `F.Id.1`  |  Allows the user to select the number of overs they would like to play |
 | `F.Id.2`  |  Allows the user to choose their player name |
 | `F.Id.3`  |  Supports single player mode |
-| `F.Id.4` |  Displays results and the Difference in number of scores of both players |
+| `F.Id.4`  |  Displays results and the Difference in number of scores of both players |
+
 
 ## Challenges faced
 
+
 | S.no. | Challenge |  Solution |
-|  :----: | :----------------: | :----------------: |
+|  :----: | :---------------- | :---------------- |
 | 1. | Creation of Github Worflows | Resolved with the help of fellow peers and google. |
 | 2. | Creation of Makefile | Resolved with the help of template provided. |
 | 3. | Working on Linux OS | Resolved with the help of google search. |
