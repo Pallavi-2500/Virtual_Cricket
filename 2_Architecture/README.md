@@ -11,3 +11,6 @@
 
 ## Architechtural diagram
 ![Architech diag Low lvl](https://user-images.githubusercontent.com/81741838/115001564-637dd600-9ec1-11eb-9ae7-da731a39a643.png)
+
+## Activity diagram
+![Untitled Workspace](https://user-images.githubusercontent.com/81741838/115008911-5238c780-9ec9-11eb-8179-f822244a2ef2.png)
