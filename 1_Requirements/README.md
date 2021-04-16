@@ -67,7 +67,7 @@ Any user can play this game using Personal computer, smartphone or laptop.
 | LR.04 | User shall be able to choose their coin side for toss. In case the user wins, the system should prompt the user to select batting or Bowling. In case the user looses the toss, the system must, by itself, select to either bat or bowl and then prompt the user what role they would be doing.  | HR.04 | Implemented |
 | LR.05 | The system should add all the scores on each ball and compare user's and system scores in the end and display the results. | HR.05 | Implemented |
 | LR.06 | Once the game ends, the system shall prompt the user to play again or quit the game console. | HR.06 | Implemented |
-| LR.07 | The system shall support single player and multiplayer modes | HR.06 | Future |
+| LR.07 | The system shall support single player and multiplayer modes | HR.07 | Future |
 
 
 
