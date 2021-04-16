@@ -26,36 +26,48 @@ The game consists of multiple functions required at each stage of the game. The 
 
 ### WHO
 
-Anyone who seeks recreation and knows basic english and computer operation and .
+Applicable for users of all age groups. Anyone who seeks recreation and knows basic english and computer operation can play this game.
 
 ### WHAT
 
-A simple and quick game from childhood for single players.
+This is a gaming application developed keeping in mind a simple and quick game from childhood. Applicable only for a single player.
 
 ### WHEN
 
-Whenever someone is bored and seeks recreation but has noone to play with.
+Whenever someone is bored and seeks recreation and has noone to play with.
 
 ### WHERE
-
-Wherever the user wants to play a game.
+A user can play this game during breaks or hobby hours.
 
 ### HOW
 
-Anyone can play this game using Personal computer, smartphone or laptop.
+Any user can play this game using Personal computer, smartphone or laptop.
 
 # Detail Requirements
 
 ## High level requirements
 
-| ID | Description | Category | Status |
+| ID | Description | Category | Status (Implemented/Future)|
 |:--|:----------------------------------|:-----------------|:-------------------|
-| HR01 | User shall be able to able to access the main menu| Technical | TBD-S1 |
+| HR.01 | System should allow the user to be able to access the main menu | Technical | Implemented |
+| HR.02 | System should allow the user to set their username | Technical | Implemented |
+| HR.03 | System should allow the user to enter the number of overs | Technical | Implemented |
+| HR.04 | System should allow the user to choose toss sides and Batting or Bowling | Technical | Implemented |
+| HR.05 | System should decide the winner on the basis of scores | Technical | Implemented |
+| HR.06 | System should prompt the user to play again when one game ends | Technical | Implemented |
+| HR.07 | System should allow multiple player mode | Technical | Future |
 
 ## Low level requirements
 
-| ID | Description | HRID | Status |
+| ID | Description | HRID | Status (Implemented/Future) |
 |:--|:----------------------------------|:------|:-------------------|
-| LR01 | User shall be able to choose between playing and quitting the game at the main menu| HR01 | TBD-S1 |
+| LR.01 | User shall be able to access the main menu from where they can go ahead with the game or exit. | HR.01 | Implemented |
+| LR.02 | User shall be able to choose a unique username with which they will be recognised in the game. | HR.02 | Implemented |
+| LR.03 | User shall be able to choose and fix the number of overs according to their convinience. | HR.03 | Implemented |
+| LR.04 | User shall be able to choose their coin side for toss. In case the user wins, the system should prompt the user to select batting or Bowling. In case the user looses the toss, the system must, by itself, select to either bat or bowl and then prompt the user what role they would be doing.  | HR.04 | Implemented |
+| LR.05 | The system should add all the scores on each ball and compare user's and system scores in the end and display the results. | HR.05 | Implemented |
+| LR.06 | Once the game ends, the system shall prompt the user to play again or quit the game console. | HR.06 | Implemented |
+| LR.07 | The system shall support single player and multiplayer modes | HR.06 | Future |
+
 
 
